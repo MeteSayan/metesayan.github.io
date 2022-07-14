@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Neden Lambda servisleri tercih ediliyor?
+title: Neden Lambda Servisleri Tercih Ediliyor?
 date: 2022-07-14 23:31:00 +0300
 description: Lambda servislerinin ne işe yaradığından ve neden tercih edildiğinden bahsedeceğim.
 img: lambda-icon.png 
@@ -19,7 +19,7 @@ Lambda servisi ise AWS'nin sağladığı serverless yapıdır. Lambda servisinin
 
 Lambda servisinin sunduğu özelliklerin birkaçından bahsedecek olursak.
 
-* AWS SAM CLI ile hızlıca template indirip ilk servisinizi yazabilirsiniz. template.yaml dosyası içerisinde yapacağınız konfigürasyonlardan sonra sizin için herşeyi AWS yapacaktır (Başka bir yazımda detaylı anlatacağım).
+* AWS SAM CLI ile hızlıca template indirip ilk servisinizi yazabilirsiniz. template.yaml dosyası içerisinde yapacağınız konfigürasyonlardan sonra sizin için herşeyi AWS yapacaktır.
 * Yazdığınız back end servislerini AWS API Gateway üzerinden veya ELB (Elastic Load Balancing) ile çalıştırabilirsiniz.
 * Yazdığınız kodların loglarına Amazon CloudWatch üzerinden istediğiniz zaman ulaşabilirsiniz. AWS sizin için otomatik olarak bu loglamayı yapmakta ve log takibini çok kolaylaştırmaktadır.
 * S3 servisi üzerindeki dosyalarda rahatlıkla ve hızlı bir şekilde işlem yapılabilmekte.
