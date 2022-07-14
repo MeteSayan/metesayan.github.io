@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Neden Lambda servisleri tercih ediliyor?
-date: 2017-09-12 13:32:20 +0300
+date: 2022-07-14 23:31:00 +0300
 description: Lambda servislerinin ne işe yaradığından ve neden tercih edildiğinden bahsedeceğim.
 img: lambda-icon.jpg 
 fig-caption: 
