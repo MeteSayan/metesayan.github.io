@@ -3,7 +3,7 @@ layout: post
 title: Neden Lambda servisleri tercih ediliyor?
 date: 2022-07-14 23:31:00 +0300
 description: Lambda servislerinin ne işe yaradığından ve neden tercih edildiğinden bahsedeceğim.
-img: lambda-icon.jpg 
+img: lambda-icon.png 
 fig-caption: 
 tags: [Lambda, AWS, Serverless]
 ---
@@ -50,5 +50,5 @@ Ayrıca bu diller için bazı eski versiyonlarada destek vermeye devam etmektedi
 * Python 3.7
 * Python 3.8
 
-![Lambda Languages]({{site.baseurl}}/assets/img/lambda-languages.jpg)
+![Lambda Languages]({{site.baseurl}}/assets/img/lambda-languages.png)
 
